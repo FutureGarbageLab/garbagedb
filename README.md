@@ -1,0 +1,2 @@
+# garbagedb
+Welcome to GarbageDB!
