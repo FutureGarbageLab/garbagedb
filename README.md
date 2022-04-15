@@ -1,2 +1,2 @@
-# garbagedb
+#  GarbageDB README
 Welcome to GarbageDB!
